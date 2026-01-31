@@ -1,10 +1,9 @@
 streamlit
-langgraph
-langchain
-langchain-core
-langchain-community
-langchain-openai
+langgraph>=0.2.15
+langchain>=0.2
+langchain-core>=0.2
+langchain-community>=0.2
+langchain-openai>=0.1.7
 duckduckgo-search
 python-dotenv
 requests
-
